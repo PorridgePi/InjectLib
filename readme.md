@@ -204,6 +204,7 @@ Surge开启MitM和脚本功能，然后: <br>
 | Swish         | 1.10.2 |                                                |
 | TG Pro        | 2.8.2  |                                                |
 | Timemator     | 3.0.3  |                                                |
+| Sensei        | 1.5.7  |                                                |
 
 # 提示
 
